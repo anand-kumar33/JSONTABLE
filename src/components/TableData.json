@@ -1,0 +1,120 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "city":"Moradabad",
+        "phone": "000009990"
+    
+
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "city":"Lucknow",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "city":"Noida",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "city":"Delhi",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "city":"Gurugram",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "city":"Mumbai",
+        "phone": "900009990"
+    },
+    {
+        "id":7,
+        "name":"Kalpana",
+        "city":"Rampur",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":8,
+        "name":"Parul",
+        "city":"Chandigarh",
+        "phone": "000009990"
+    },
+    
+    {
+        "id":9,
+        "name":"Himani",
+        "city":"Dehradun",
+        "phone": "000009990"
+    },
+    {
+        "id": 1,
+        "name": "Akshit",
+        "city": "Moradabad",
+        "phone": "000009990"
+      },
+      {
+        "id": 2,
+        "name": "Nikita",
+        "city": "Lucknow",
+        "phone": "000009990"
+      },
+      {
+        "id": 3,
+        "name": "Deeksha",
+        "city": "Noida",
+        "phone": "000009990"
+      },
+      {
+        "id": 4,
+        "name": "Ritesh",
+        "city": "Delhi",
+        "phone": "000009990"
+      },
+      {
+        "id": 5,
+        "name": "Somya",
+        "city": "Gurugram",
+        "phone": "000009990"
+      },
+      {
+        "id": 6,
+        "name": "Eshika",
+        "city": "Mumbai",
+        "phone": "000009990"
+      },
+      {
+        "id": 7,
+        "name": "Kalpana",
+        "city": "Rampur",
+        "phone": "000009990"
+      },
+      {
+        "id": 8,
+        "name": "Parul",
+        "city": "Chandigarh",
+        "phone": "000009990"
+      },
+      {
+        "id": 9,
+        "name": "Himani",
+        "city": "Dehradun",
+        "phone": "000009990"
+      }
+]
